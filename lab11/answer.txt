@@ -1,0 +1,16 @@
+Canopus Tong
+1412275
+Lab11
+
+1. For the forward differences formula,
+   h = 0.01 has the most accurate and smoothest approximation.
+   
+2. Similarly, for the centred differences formula,
+   h = 0.01 has the most accurate and smoothest approximation.
+
+In general, the smaller h is, the better the approximation becomes.
+Comparing these two, the centred diffences formula is more accurate;
+It has error of o(h^2), where as the forward diffences formula has
+error of o(h).
+
+  
